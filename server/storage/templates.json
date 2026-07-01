@@ -1,0 +1,20 @@
+[
+  {
+    "title": "3e23e",
+    "slug": "3e23e",
+    "framework": "React",
+    "category": "Landing Page",
+    "price": 19,
+    "isFree": false,
+    "thumbnail": "/uploads/thumbnails/3e23e-custom-thumb.webp",
+    "zipFile": "3e23e-1782899544231.zip",
+    "previewPath": "server\\storage\\uploads\\preview\\3e23e\\Clinic-1.0.0",
+    "previewUrl": "/preview/3e23e",
+    "downloadUrl": "/api/templates/download/3e23e",
+    "downloadCount": 0,
+    "id": "kwisiunov",
+    "_id": "kwisiunov",
+    "createdAt": "2026-07-01T09:52:24.922Z",
+    "updatedAt": "2026-07-01T09:52:24.922Z"
+  }
+]

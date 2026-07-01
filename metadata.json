@@ -1,0 +1,8 @@
+{
+  "name": "Developer Template Marketplace",
+  "description": "A developer template marketplace MVP where administrators can upload ZIP templates, and visitors can search, live preview, and download them.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
